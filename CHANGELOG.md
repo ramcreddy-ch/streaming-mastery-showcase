@@ -4,3 +4,5 @@
 
 - Implement Level 3: Schema Governance & Registry config (2026-01-3 11:00:00)
 
+- Add Level 4: Enterprise Connectivity (Kafka Connect) (2026-01-4 11:00:00)
+
