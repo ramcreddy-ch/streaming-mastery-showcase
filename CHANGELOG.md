@@ -6,3 +6,5 @@
 
 - Add Level 4: Enterprise Connectivity (Kafka Connect) (2026-01-4 11:00:00)
 
+- Implement Level 5: Disaster Recovery & Offset Replay (2026-01-5 11:00:00)
+
