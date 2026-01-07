@@ -10,3 +10,5 @@
 
 - AI Integration: Add Level 6 Flink Real-time processing (2026-01-6 11:00:00)
 
+- Docs: Create Senior Streaming Interview Guide (2026-01-7 11:00:00)
+
