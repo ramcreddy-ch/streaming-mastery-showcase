@@ -12,3 +12,5 @@
 
 - Docs: Create Senior Streaming Interview Guide (2026-01-7 11:00:00)
 
+- Docs: Add Comprehensive Streaming CLI Cheatsheet (2026-01-8 11:00:00)
+
