@@ -14,3 +14,5 @@
 
 - Docs: Add Comprehensive Streaming CLI Cheatsheet (2026-01-8 11:00:00)
 
+- Refactor: Optimize ISR and Partition strategy docs (2026-01-9 11:00:00)
+
