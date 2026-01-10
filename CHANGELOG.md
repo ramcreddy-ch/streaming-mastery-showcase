@@ -16,3 +16,5 @@
 
 - Refactor: Optimize ISR and Partition strategy docs (2026-01-9 11:00:00)
 
+- Security: Add Dead Letter Queue (DLQ) patterns (2026-01-10 11:00:00)
+
