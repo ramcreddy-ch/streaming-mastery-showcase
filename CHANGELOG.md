@@ -18,3 +18,5 @@
 
 - Security: Add Dead Letter Queue (DLQ) patterns (2026-01-10 11:00:00)
 
+- Enhance README with Streaming Data Flow diagram (2026-01-11 11:00:00)
+
